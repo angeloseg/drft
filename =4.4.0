@@ -1,0 +1,6 @@
+Collecting kombu
+  Using cached https://files.pythonhosted.org/packages/8f/f6/a60d03e6179166134aab2ee15603641eeb91c6ac9344018209d3ef13fb7c/kombu-4.6.3-py2.py3-none-any.whl
+Requirement already satisfied: amqp<3.0,>=2.5.0 in /home/angelos/.virtualenvs/test_ougka_bougka/lib/python3.6/site-packages (from kombu) (2.5.0)
+Requirement already satisfied: vine<5.0.0a1,>=1.1.3 in /home/angelos/.virtualenvs/test_ougka_bougka/lib/python3.6/site-packages (from amqp<3.0,>=2.5.0->kombu) (1.3.0)
+Installing collected packages: kombu
+Successfully installed kombu-4.6.3
